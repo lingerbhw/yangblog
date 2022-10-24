@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>yang的个人博客</title>
+  
+  <subtitle>lin3.icu</subtitle>
+  <link href="https://lin3.icu/atom.xml" rel="self"/>
+  
+  <link href="https://lin3.icu/"/>
+  <updated>2022-10-24T04:56:12.025Z</updated>
+  <id>https://lin3.icu/</id>
+  
+  <author>
+    <name>ww</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>示例文章</title>
+    <link href="https://lin3.icu/posts/6842f00a"/>
+    <id>https://lin3.icu/posts/6842f00a</id>
+    <published>2022-10-24T04:55:03.000Z</published>
+    <updated>2022-10-24T04:56:12.025Z</updated>
+    
+    <content type="html"><![CDATA[<p>本文为示例文章，仅供展示参考</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;本文为示例文章，仅供展示参考&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="示例" scheme="https://lin3.icu/categories/%E7%A4%BA%E4%BE%8B/"/>
+    
+    
+    <category term="示例" scheme="https://lin3.icu/tags/%E7%A4%BA%E4%BE%8B/"/>
+    
+  </entry>
+  
+</feed>
