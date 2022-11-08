@@ -1,2 +1,10 @@
-@font-face{font-family:Calligraphy;src:url(https://cdn.jsdelivr.net/gh/inkss/common@1/fonts/canva/%E6%9D%A8%E4%BB%BB%E4%B8%9C%E7%AB%B9%E7%9F%B3%E4%BD%93.woff2)}body{font-family:Calligraphy}body .cover-wrapper .cover-body .title{font-family:Calligraphy}
-/*# sourceMappingURL=../maps/css/custom.css.map */
+@font-face{
+	font-family: Calligraphy;
+	src: url("https://cdn.jsdelivr.net/gh/inkss/common@1/fonts/canva/%E6%9D%A8%E4%BB%BB%E4%B8%9C%E7%AB%B9%E7%9F%B3%E4%BD%93.woff2");
+}
+body{
+	font-family: Calligraphy;
+}
+body .cover-wrapper .cover-body .title{
+	font-family: Calligraphy;
+}
